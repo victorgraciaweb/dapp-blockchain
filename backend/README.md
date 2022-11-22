@@ -8,7 +8,11 @@ How to run?
 
    `npm install`
 
-2. Compile and migrate Smart Contract
+2. Install Truffle
+
+   `npm install -g truffle`
+
+3. Compile and migrate Smart Contract
 
    `truffle migrate --reset --compile-all`
 
