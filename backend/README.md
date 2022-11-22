@@ -6,7 +6,7 @@ How to run?
 
 1. Install dependencies
 
-   `npm i package.json`
+   `npm install`
 
 2. Compile and migrate Smart Contract
 

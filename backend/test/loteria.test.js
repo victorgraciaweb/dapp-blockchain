@@ -1,5 +1,4 @@
 const Web3 = require('web3');
-const {arrayContainsArray} = require("truffle/build/671.bundled");
 
 const loteria = artifacts.require("loteria");
 
